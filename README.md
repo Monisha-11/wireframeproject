@@ -31,7 +31,7 @@ Save the document and export the file as Single web page with Clickable Prototyp
 ![output](./output2.png)
 
 ## MESSAGE :
-![outout](./output3.png)
+![output](./output3.png)
 
 
 
